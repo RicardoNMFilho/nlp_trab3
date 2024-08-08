@@ -1,0 +1,764 @@
+2024-08-06 13:31:50,957 DEBUG    root            Loaded Command Group: ['gcloud', 'components']
+2024-08-06 13:31:50,961 DEBUG    root            Loaded Command Group: ['gcloud', 'components', 'update']
+2024-08-06 13:31:50,963 DEBUG    root            Running [gcloud.components.update] with arguments: [--allow-no-backup: "True", --compile-python: "True", --quiet: "True", COMPONENT-IDS:6: "['core', 'gcloud-deps', 'bq', 'gcloud', 'gcloud-crc32c', 'gsutil']"]
+2024-08-06 13:31:50,964 INFO     ___FILE_ONLY___ Beginning update. This process may take several minutes.
+
+2024-08-06 13:31:50,997 DEBUG    urllib3.connectionpool Starting new HTTPS connection (1): dl.google.com:443
+2024-08-06 13:31:51,070 DEBUG    urllib3.connectionpool https://dl.google.com:443 "GET /dl/cloudsdk/channels/rapid/components-2.json HTTP/1.1" 200 223375
+2024-08-06 13:31:51,087 INFO     ___FILE_ONLY___ 
+
+2024-08-06 13:31:51,087 INFO     ___FILE_ONLY___ 
+Your current Google Cloud CLI version is: 486.0.0
+
+2024-08-06 13:31:51,087 INFO     ___FILE_ONLY___ Installing components from version: 486.0.0
+
+2024-08-06 13:31:51,087 INFO     ___FILE_ONLY___ 
+
+2024-08-06 13:31:51,088 DEBUG    root            Chosen display Format:table[box,title="These components will be removed."](details.display_name:label=Name:align=left,version.version_string:label=Version:align=right,data.size.size(zero="",min=1048576):label=Size:align=right)
+2024-08-06 13:31:51,088 DEBUG    root            Chosen display Format:table[box,title="These components will be updated."](details.display_name:label=Name:align=left,version.version_string:label=Version:align=right,data.size.size(zero="",min=1048576):label=Size:align=right)
+2024-08-06 13:31:51,089 DEBUG    root            Chosen display Format:table[box,title="These components will be installed."](details.display_name:label=Name:align=left,version.version_string:label=Version:align=right,data.size.size(zero="",min=1048576):label=Size:align=right)
+2024-08-06 13:31:51,218 INFO     ___FILE_ONLY___ ┌─────────────────────────────────────────────────────────────────────────────┐
+2024-08-06 13:31:51,219 INFO     ___FILE_ONLY___ 
+
+2024-08-06 13:31:51,219 INFO     ___FILE_ONLY___ │                     These components will be installed.                     │
+2024-08-06 13:31:51,219 INFO     ___FILE_ONLY___ 
+
+2024-08-06 13:31:51,219 INFO     ___FILE_ONLY___ ├─────────────────────────────────────────────────────┬────────────┬──────────┤
+2024-08-06 13:31:51,219 INFO     ___FILE_ONLY___ 
+
+2024-08-06 13:31:51,219 INFO     ___FILE_ONLY___ │                         Name                        │  Version   │   Size   │
+2024-08-06 13:31:51,219 INFO     ___FILE_ONLY___ 
+
+2024-08-06 13:31:51,219 INFO     ___FILE_ONLY___ ├─────────────────────────────────────────────────────┼────────────┼──────────┤
+2024-08-06 13:31:51,219 INFO     ___FILE_ONLY___ 
+
+2024-08-06 13:31:51,220 INFO     ___FILE_ONLY___ │ 
+2024-08-06 13:31:51,220 INFO     ___FILE_ONLY___ BigQuery Command Line Tool                         
+2024-08-06 13:31:51,220 INFO     ___FILE_ONLY___  
+2024-08-06 13:31:51,220 INFO     ___FILE_ONLY___ │ 
+2024-08-06 13:31:51,220 INFO     ___FILE_ONLY___      2.1.7
+2024-08-06 13:31:51,220 INFO     ___FILE_ONLY___  
+2024-08-06 13:31:51,220 INFO     ___FILE_ONLY___ │ 
+2024-08-06 13:31:51,220 INFO     ___FILE_ONLY___  1.7 MiB
+2024-08-06 13:31:51,220 INFO     ___FILE_ONLY___  
+2024-08-06 13:31:51,220 INFO     ___FILE_ONLY___ │
+2024-08-06 13:31:51,221 INFO     ___FILE_ONLY___ 
+
+2024-08-06 13:31:51,221 INFO     ___FILE_ONLY___ │ 
+2024-08-06 13:31:51,221 INFO     ___FILE_ONLY___ BigQuery Command Line Tool (Platform Specific)     
+2024-08-06 13:31:51,221 INFO     ___FILE_ONLY___  
+2024-08-06 13:31:51,221 INFO     ___FILE_ONLY___ │ 
+2024-08-06 13:31:51,221 INFO     ___FILE_ONLY___    2.0.101
+2024-08-06 13:31:51,221 INFO     ___FILE_ONLY___  
+2024-08-06 13:31:51,221 INFO     ___FILE_ONLY___ │ 
+2024-08-06 13:31:51,221 INFO     ___FILE_ONLY___  < 1 MiB
+2024-08-06 13:31:51,221 INFO     ___FILE_ONLY___  
+2024-08-06 13:31:51,222 INFO     ___FILE_ONLY___ │
+2024-08-06 13:31:51,222 INFO     ___FILE_ONLY___ 
+
+2024-08-06 13:31:51,222 INFO     ___FILE_ONLY___ │ 
+2024-08-06 13:31:51,222 INFO     ___FILE_ONLY___ Bundled Python 3.11 (Platform Specific)            
+2024-08-06 13:31:51,222 INFO     ___FILE_ONLY___  
+2024-08-06 13:31:51,222 INFO     ___FILE_ONLY___ │ 
+2024-08-06 13:31:51,222 INFO     ___FILE_ONLY___     3.11.8
+2024-08-06 13:31:51,222 INFO     ___FILE_ONLY___  
+2024-08-06 13:31:51,222 INFO     ___FILE_ONLY___ │ 
+2024-08-06 13:31:51,222 INFO     ___FILE_ONLY___ 74.0 MiB
+2024-08-06 13:31:51,223 INFO     ___FILE_ONLY___  
+2024-08-06 13:31:51,223 INFO     ___FILE_ONLY___ │
+2024-08-06 13:31:51,223 INFO     ___FILE_ONLY___ 
+
+2024-08-06 13:31:51,223 INFO     ___FILE_ONLY___ │ 
+2024-08-06 13:31:51,223 INFO     ___FILE_ONLY___ Cloud Storage Command Line Tool                    
+2024-08-06 13:31:51,223 INFO     ___FILE_ONLY___  
+2024-08-06 13:31:51,223 INFO     ___FILE_ONLY___ │ 
+2024-08-06 13:31:51,223 INFO     ___FILE_ONLY___       5.30
+2024-08-06 13:31:51,223 INFO     ___FILE_ONLY___  
+2024-08-06 13:31:51,223 INFO     ___FILE_ONLY___ │ 
+2024-08-06 13:31:51,224 INFO     ___FILE_ONLY___ 11.3 MiB
+2024-08-06 13:31:51,224 INFO     ___FILE_ONLY___  
+2024-08-06 13:31:51,224 INFO     ___FILE_ONLY___ │
+2024-08-06 13:31:51,224 INFO     ___FILE_ONLY___ 
+
+2024-08-06 13:31:51,224 INFO     ___FILE_ONLY___ │ 
+2024-08-06 13:31:51,224 INFO     ___FILE_ONLY___ Cloud Storage Command Line Tool (Platform Specific)
+2024-08-06 13:31:51,224 INFO     ___FILE_ONLY___  
+2024-08-06 13:31:51,224 INFO     ___FILE_ONLY___ │ 
+2024-08-06 13:31:51,224 INFO     ___FILE_ONLY___       5.27
+2024-08-06 13:31:51,225 INFO     ___FILE_ONLY___  
+2024-08-06 13:31:51,225 INFO     ___FILE_ONLY___ │ 
+2024-08-06 13:31:51,225 INFO     ___FILE_ONLY___  < 1 MiB
+2024-08-06 13:31:51,225 INFO     ___FILE_ONLY___  
+2024-08-06 13:31:51,225 INFO     ___FILE_ONLY___ │
+2024-08-06 13:31:51,225 INFO     ___FILE_ONLY___ 
+
+2024-08-06 13:31:51,225 INFO     ___FILE_ONLY___ │ 
+2024-08-06 13:31:51,226 INFO     ___FILE_ONLY___ Google Cloud CLI Core Libraries (Platform Specific)
+2024-08-06 13:31:51,226 INFO     ___FILE_ONLY___  
+2024-08-06 13:31:51,226 INFO     ___FILE_ONLY___ │ 
+2024-08-06 13:31:51,226 INFO     ___FILE_ONLY___ 2024.01.06
+2024-08-06 13:31:51,226 INFO     ___FILE_ONLY___  
+2024-08-06 13:31:51,226 INFO     ___FILE_ONLY___ │ 
+2024-08-06 13:31:51,226 INFO     ___FILE_ONLY___  < 1 MiB
+2024-08-06 13:31:51,226 INFO     ___FILE_ONLY___  
+2024-08-06 13:31:51,226 INFO     ___FILE_ONLY___ │
+2024-08-06 13:31:51,226 INFO     ___FILE_ONLY___ 
+
+2024-08-06 13:31:51,227 INFO     ___FILE_ONLY___ │ 
+2024-08-06 13:31:51,227 INFO     ___FILE_ONLY___ Google Cloud CRC32C Hash Tool (Platform Specific)  
+2024-08-06 13:31:51,227 INFO     ___FILE_ONLY___  
+2024-08-06 13:31:51,227 INFO     ___FILE_ONLY___ │ 
+2024-08-06 13:31:51,227 INFO     ___FILE_ONLY___      1.0.0
+2024-08-06 13:31:51,227 INFO     ___FILE_ONLY___  
+2024-08-06 13:31:51,227 INFO     ___FILE_ONLY___ │ 
+2024-08-06 13:31:51,227 INFO     ___FILE_ONLY___  1.3 MiB
+2024-08-06 13:31:51,227 INFO     ___FILE_ONLY___  
+2024-08-06 13:31:51,227 INFO     ___FILE_ONLY___ │
+2024-08-06 13:31:51,228 INFO     ___FILE_ONLY___ 
+
+2024-08-06 13:31:51,228 INFO     ___FILE_ONLY___ │ 
+2024-08-06 13:31:51,228 INFO     ___FILE_ONLY___ gcloud cli dependencies (Platform Specific)        
+2024-08-06 13:31:51,228 INFO     ___FILE_ONLY___  
+2024-08-06 13:31:51,228 INFO     ___FILE_ONLY___ │ 
+2024-08-06 13:31:51,228 INFO     ___FILE_ONLY___ 2021.04.16
+2024-08-06 13:31:51,228 INFO     ___FILE_ONLY___  
+2024-08-06 13:31:51,228 INFO     ___FILE_ONLY___ │ 
+2024-08-06 13:31:51,228 INFO     ___FILE_ONLY___  < 1 MiB
+2024-08-06 13:31:51,228 INFO     ___FILE_ONLY___  
+2024-08-06 13:31:51,229 INFO     ___FILE_ONLY___ │
+2024-08-06 13:31:51,229 INFO     ___FILE_ONLY___ 
+
+2024-08-06 13:31:51,229 INFO     ___FILE_ONLY___ └─────────────────────────────────────────────────────┴────────────┴──────────┘
+2024-08-06 13:31:51,229 INFO     ___FILE_ONLY___ 
+
+2024-08-06 13:31:51,229 INFO     ___FILE_ONLY___ 
+
+2024-08-06 13:31:51,233 DEBUG    urllib3.connectionpool Starting new HTTPS connection (1): dl.google.com:443
+2024-08-06 13:31:51,307 DEBUG    urllib3.connectionpool https://dl.google.com:443 "GET /dl/cloudsdk/channels/rapid/RELEASE_NOTES HTTP/1.1" 200 1248864
+2024-08-06 13:31:51,339 INFO     ___FILE_ONLY___ For the latest full release notes, please visit:
+  https://cloud.google.com/sdk/release_notes
+
+
+2024-08-06 13:31:51,339 INFO     ___FILE_ONLY___ Performing in place update...
+
+
+2024-08-06 13:31:51,341 INFO     ___FILE_ONLY___ ╔════════════════════════════════════════════════════════════╗
+
+2024-08-06 13:31:51,341 INFO     ___FILE_ONLY___ ╠═ Downloading: BigQuery Command Line Tool                  ═╣
+
+2024-08-06 13:31:51,341 INFO     ___FILE_ONLY___ ╚
+2024-08-06 13:31:51,346 DEBUG    urllib3.connectionpool Starting new HTTPS connection (1): dl.google.com:443
+2024-08-06 13:31:51,423 DEBUG    urllib3.connectionpool https://dl.google.com:443 "GET /dl/cloudsdk/channels/rapid/components/google-cloud-sdk-bq-20240712142834.tar.gz HTTP/1.1" 200 1808321
+2024-08-06 13:31:51,433 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,433 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,433 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,433 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,434 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,434 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,434 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,434 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,434 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,434 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,435 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,435 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,435 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,435 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,435 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,435 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,435 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,436 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,436 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,436 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,436 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,436 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,436 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,437 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,437 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,437 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,437 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,437 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,437 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,438 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,438 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,438 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,438 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,438 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,438 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,438 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,439 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,439 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,439 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,439 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,439 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,439 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,440 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,440 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,440 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,440 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,440 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,440 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,440 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,441 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,441 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,441 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,441 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,441 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,441 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,442 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,442 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,442 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,442 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,442 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,442 INFO     ___FILE_ONLY___ ╝
+
+2024-08-06 13:31:51,444 INFO     ___FILE_ONLY___ ╔════════════════════════════════════════════════════════════╗
+
+2024-08-06 13:31:51,444 INFO     ___FILE_ONLY___ ╠═ Downloading: BigQuery Command Line Tool (Platform Spe... ═╣
+
+2024-08-06 13:31:51,444 INFO     ___FILE_ONLY___ ╚
+2024-08-06 13:31:51,448 DEBUG    urllib3.connectionpool Starting new HTTPS connection (1): dl.google.com:443
+2024-08-06 13:31:51,579 DEBUG    urllib3.connectionpool https://dl.google.com:443 "GET /dl/cloudsdk/channels/rapid/components/google-cloud-sdk-bq-nix-20240106004423.tar.gz HTTP/1.1" 200 2026
+2024-08-06 13:31:51,580 INFO     ___FILE_ONLY___ ════════════════════════════════════════════════════════════
+2024-08-06 13:31:51,580 INFO     ___FILE_ONLY___ ╝
+
+2024-08-06 13:31:51,582 INFO     ___FILE_ONLY___ ╔════════════════════════════════════════════════════════════╗
+
+2024-08-06 13:31:51,583 INFO     ___FILE_ONLY___ ╠═ Downloading: Bundled Python 3.11                         ═╣
+
+2024-08-06 13:31:51,583 INFO     ___FILE_ONLY___ ╚
+2024-08-06 13:31:51,583 INFO     ___FILE_ONLY___ ════════════════════════════════════════════════════════════
+2024-08-06 13:31:51,583 INFO     ___FILE_ONLY___ ╝
+
+2024-08-06 13:31:51,585 INFO     ___FILE_ONLY___ ╔════════════════════════════════════════════════════════════╗
+
+2024-08-06 13:31:51,585 INFO     ___FILE_ONLY___ ╠═ Downloading: Bundled Python 3.11 (Platform Specific)     ═╣
+
+2024-08-06 13:31:51,585 INFO     ___FILE_ONLY___ ╚
+2024-08-06 13:31:51,589 DEBUG    urllib3.connectionpool Starting new HTTPS connection (1): dl.google.com:443
+2024-08-06 13:31:51,659 DEBUG    urllib3.connectionpool https://dl.google.com:443 "GET /dl/cloudsdk/channels/rapid/components/google-cloud-sdk-bundled-python3-unix-linux-x86_64-20240712142834.tar.gz HTTP/1.1" 200 77646096
+2024-08-06 13:31:51,911 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,913 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,914 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,916 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,917 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,919 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,920 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,921 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,923 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,924 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,926 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,927 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,929 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,930 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,932 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,933 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,934 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,936 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,937 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,939 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,940 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,942 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,943 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,945 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,946 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,947 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,949 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,950 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,952 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,953 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,955 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,956 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,957 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,959 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,960 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,962 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,963 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,965 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,966 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,967 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,969 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,970 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,972 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,973 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,975 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,976 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,977 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,979 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,980 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,982 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,983 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,985 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,986 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,987 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,989 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,990 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,992 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,993 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,995 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,996 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:51,997 INFO     ___FILE_ONLY___ ╝
+
+2024-08-06 13:31:51,999 INFO     ___FILE_ONLY___ ╔════════════════════════════════════════════════════════════╗
+
+2024-08-06 13:31:51,999 INFO     ___FILE_ONLY___ ╠═ Downloading: Cloud Storage Command Line Tool             ═╣
+
+2024-08-06 13:31:51,999 INFO     ___FILE_ONLY___ ╚
+2024-08-06 13:31:52,003 DEBUG    urllib3.connectionpool Starting new HTTPS connection (1): dl.google.com:443
+2024-08-06 13:31:52,076 DEBUG    urllib3.connectionpool https://dl.google.com:443 "GET /dl/cloudsdk/channels/rapid/components/google-cloud-sdk-gsutil-20240614142823.tar.gz HTTP/1.1" 200 11883175
+2024-08-06 13:31:52,111 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,112 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,112 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,112 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,113 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,113 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,113 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,114 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,114 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,114 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,115 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,115 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,116 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,116 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,116 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,117 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,117 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,117 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,118 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,118 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,118 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,119 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,119 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,119 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,120 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,120 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,120 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,121 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,121 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,121 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,122 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,122 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,122 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,123 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,123 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,123 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,124 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,124 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,124 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,125 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,125 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,125 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,126 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,126 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,126 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,127 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,127 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,127 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,128 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,128 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,128 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,129 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,129 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,129 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,130 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,130 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,130 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,131 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,131 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,131 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,132 INFO     ___FILE_ONLY___ ╝
+
+2024-08-06 13:31:52,134 INFO     ___FILE_ONLY___ ╔════════════════════════════════════════════════════════════╗
+
+2024-08-06 13:31:52,134 INFO     ___FILE_ONLY___ ╠═ Downloading: Cloud Storage Command Line Tool (Platfor... ═╣
+
+2024-08-06 13:31:52,134 INFO     ___FILE_ONLY___ ╚
+2024-08-06 13:31:52,138 DEBUG    urllib3.connectionpool Starting new HTTPS connection (1): dl.google.com:443
+2024-08-06 13:31:52,207 DEBUG    urllib3.connectionpool https://dl.google.com:443 "GET /dl/cloudsdk/channels/rapid/components/google-cloud-sdk-gsutil-nix-20240106004423.tar.gz HTTP/1.1" 200 2042
+2024-08-06 13:31:52,208 INFO     ___FILE_ONLY___ ════════════════════════════════════════════════════════════
+2024-08-06 13:31:52,208 INFO     ___FILE_ONLY___ ╝
+
+2024-08-06 13:31:52,210 INFO     ___FILE_ONLY___ ╔════════════════════════════════════════════════════════════╗
+
+2024-08-06 13:31:52,210 INFO     ___FILE_ONLY___ ╠═ Downloading: Default set of gcloud commands              ═╣
+
+2024-08-06 13:31:52,210 INFO     ___FILE_ONLY___ ╚
+2024-08-06 13:31:52,210 INFO     ___FILE_ONLY___ ════════════════════════════════════════════════════════════
+2024-08-06 13:31:52,210 INFO     ___FILE_ONLY___ ╝
+
+2024-08-06 13:31:52,212 INFO     ___FILE_ONLY___ ╔════════════════════════════════════════════════════════════╗
+
+2024-08-06 13:31:52,212 INFO     ___FILE_ONLY___ ╠═ Downloading: Google Cloud CLI Core Libraries (Platfor... ═╣
+
+2024-08-06 13:31:52,212 INFO     ___FILE_ONLY___ ╚
+2024-08-06 13:31:52,216 DEBUG    urllib3.connectionpool Starting new HTTPS connection (1): dl.google.com:443
+2024-08-06 13:31:52,350 DEBUG    urllib3.connectionpool https://dl.google.com:443 "GET /dl/cloudsdk/channels/rapid/components/google-cloud-sdk-core-nix-20240106004423.tar.gz HTTP/1.1" 200 2410
+2024-08-06 13:31:52,351 INFO     ___FILE_ONLY___ ════════════════════════════════════════════════════════════
+2024-08-06 13:31:52,351 INFO     ___FILE_ONLY___ ╝
+
+2024-08-06 13:31:52,353 INFO     ___FILE_ONLY___ ╔════════════════════════════════════════════════════════════╗
+
+2024-08-06 13:31:52,353 INFO     ___FILE_ONLY___ ╠═ Downloading: Google Cloud CRC32C Hash Tool               ═╣
+
+2024-08-06 13:31:52,353 INFO     ___FILE_ONLY___ ╚
+2024-08-06 13:31:52,353 INFO     ___FILE_ONLY___ ════════════════════════════════════════════════════════════
+2024-08-06 13:31:52,353 INFO     ___FILE_ONLY___ ╝
+
+2024-08-06 13:31:52,355 INFO     ___FILE_ONLY___ ╔════════════════════════════════════════════════════════════╗
+
+2024-08-06 13:31:52,355 INFO     ___FILE_ONLY___ ╠═ Downloading: Google Cloud CRC32C Hash Tool (Platform ... ═╣
+
+2024-08-06 13:31:52,355 INFO     ___FILE_ONLY___ ╚
+2024-08-06 13:31:52,367 DEBUG    urllib3.connectionpool Starting new HTTPS connection (1): dl.google.com:443
+2024-08-06 13:31:52,440 DEBUG    urllib3.connectionpool https://dl.google.com:443 "GET /dl/cloudsdk/channels/rapid/components/google-cloud-sdk-gcloud-crc32c-linux-x86_64-20240712142834.tar.gz HTTP/1.1" 200 1350263
+2024-08-06 13:31:52,451 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,451 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,451 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,451 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,451 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,451 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,451 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,452 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,452 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,452 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,452 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,452 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,452 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,452 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,452 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,452 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,452 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,452 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,453 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,453 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,453 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,453 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,453 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,453 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,453 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,453 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,453 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,453 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,453 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,454 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,454 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,454 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,454 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,454 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,454 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,454 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,454 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,454 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,454 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,454 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,455 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,455 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,455 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,455 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,455 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,455 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,455 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,455 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,455 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,455 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,455 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,456 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,456 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,456 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,456 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,456 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,456 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,456 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,456 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,456 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,456 INFO     ___FILE_ONLY___ ╝
+
+2024-08-06 13:31:52,458 INFO     ___FILE_ONLY___ ╔════════════════════════════════════════════════════════════╗
+
+2024-08-06 13:31:52,458 INFO     ___FILE_ONLY___ ╠═ Downloading: gcloud cli dependencies (Platform Specific) ═╣
+
+2024-08-06 13:31:52,459 INFO     ___FILE_ONLY___ ╚
+2024-08-06 13:31:52,462 DEBUG    urllib3.connectionpool Starting new HTTPS connection (1): dl.google.com:443
+2024-08-06 13:31:52,596 DEBUG    urllib3.connectionpool https://dl.google.com:443 "GET /dl/cloudsdk/channels/rapid/components/google-cloud-sdk-gcloud-deps-linux-x86_64-20210416153011.tar.gz HTTP/1.1" 200 104
+2024-08-06 13:31:52,597 INFO     ___FILE_ONLY___ ════════════════════════════════════════════════════════════
+2024-08-06 13:31:52,597 INFO     ___FILE_ONLY___ ╝
+
+2024-08-06 13:31:52,599 INFO     ___FILE_ONLY___ ╔════════════════════════════════════════════════════════════╗
+
+2024-08-06 13:31:52,599 INFO     ___FILE_ONLY___ ╠═ Installing: BigQuery Command Line Tool                   ═╣
+
+2024-08-06 13:31:52,599 INFO     ___FILE_ONLY___ ╚
+2024-08-06 13:31:52,717 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,720 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,723 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,725 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,728 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,730 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,732 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,735 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,737 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,739 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,741 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,743 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,745 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,747 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,750 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,752 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,754 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,757 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,760 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,762 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,764 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,766 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,767 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,770 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,772 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,774 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,776 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,780 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,782 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,784 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,786 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,789 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,791 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,795 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,803 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,805 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,807 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,812 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,814 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,817 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,819 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,822 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,825 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,828 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,829 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,832 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,834 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,836 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,838 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,840 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,842 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,844 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,846 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,848 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,851 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,852 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,854 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,857 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,858 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,861 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:52,861 INFO     ___FILE_ONLY___ ╝
+
+2024-08-06 13:31:52,873 INFO     ___FILE_ONLY___ ╔════════════════════════════════════════════════════════════╗
+
+2024-08-06 13:31:52,873 INFO     ___FILE_ONLY___ ╠═ Installing: BigQuery Command Line Tool (Platform Spec... ═╣
+
+2024-08-06 13:31:52,873 INFO     ___FILE_ONLY___ ╚
+2024-08-06 13:31:52,874 INFO     ___FILE_ONLY___ ════════════════════════════════════════════════════════════
+2024-08-06 13:31:52,874 INFO     ___FILE_ONLY___ ╝
+
+2024-08-06 13:31:52,879 INFO     ___FILE_ONLY___ ╔════════════════════════════════════════════════════════════╗
+
+2024-08-06 13:31:52,879 INFO     ___FILE_ONLY___ ╠═ Installing: Bundled Python 3.11                          ═╣
+
+2024-08-06 13:31:52,880 INFO     ___FILE_ONLY___ ╚
+2024-08-06 13:31:52,884 INFO     ___FILE_ONLY___ ════════════════════════════════════════════════════════════
+2024-08-06 13:31:52,884 INFO     ___FILE_ONLY___ ╝
+
+2024-08-06 13:31:52,885 INFO     ___FILE_ONLY___ ╔════════════════════════════════════════════════════════════╗
+
+2024-08-06 13:31:52,886 INFO     ___FILE_ONLY___ ╠═ Installing: Bundled Python 3.11 (Platform Specific)      ═╣
+
+2024-08-06 13:31:52,886 INFO     ___FILE_ONLY___ ╚
+2024-08-06 13:31:55,053 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:55,065 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:55,077 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:55,089 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:55,101 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:55,114 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:55,126 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:55,138 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:55,151 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:55,163 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:55,175 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:55,188 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:55,199 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:55,211 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:55,223 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:55,235 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:55,247 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:55,260 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:55,272 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:55,284 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:55,296 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:55,308 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:55,320 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:55,332 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:55,344 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:55,356 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:55,368 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:55,380 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:55,393 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:55,405 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:55,418 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:55,430 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:55,443 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:55,457 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:55,813 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:55,836 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:55,853 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:55,872 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:55,892 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:55,922 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:55,941 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:55,960 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:55,984 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:56,118 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:56,134 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:56,222 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:56,241 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:56,261 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:56,279 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:56,302 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:56,326 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:56,369 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:56,386 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:56,404 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:56,425 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:56,448 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:56,475 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:57,546 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:57,560 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:57,575 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:57,576 INFO     ___FILE_ONLY___ ╝
+
+2024-08-06 13:31:57,650 INFO     ___FILE_ONLY___ ╔════════════════════════════════════════════════════════════╗
+
+2024-08-06 13:31:57,650 INFO     ___FILE_ONLY___ ╠═ Installing: Cloud Storage Command Line Tool              ═╣
+
+2024-08-06 13:31:57,650 INFO     ___FILE_ONLY___ ╚
+2024-08-06 13:31:58,327 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:58,339 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:58,352 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:58,371 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:58,386 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:58,403 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:58,416 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:58,438 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:58,450 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:58,461 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:58,471 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:58,508 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:58,519 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:58,531 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:58,543 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:58,552 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:58,561 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:58,571 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:58,580 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:58,591 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:58,600 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:58,609 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:58,619 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:58,632 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:58,641 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:58,653 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:58,666 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:58,678 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:58,690 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:58,708 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:58,719 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:58,730 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:58,740 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:58,755 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:58,765 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:58,776 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:58,790 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:58,805 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:58,819 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:58,836 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:58,849 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:58,860 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:58,871 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:58,884 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:58,898 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:58,912 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:58,926 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:58,937 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:58,952 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:58,964 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:58,973 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:58,984 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:58,995 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:59,005 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:59,015 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:59,024 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:59,033 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:59,053 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:59,069 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:59,086 INFO     ___FILE_ONLY___ ═
+2024-08-06 13:31:59,086 INFO     ___FILE_ONLY___ ╝
+
+2024-08-06 13:31:59,136 INFO     ___FILE_ONLY___ ╔════════════════════════════════════════════════════════════╗
+
+2024-08-06 13:31:59,136 INFO     ___FILE_ONLY___ ╠═ Installing: Cloud Storage Command Line Tool (Platform... ═╣
+
+2024-08-06 13:31:59,136 INFO     ___FILE_ONLY___ ╚
+2024-08-06 13:31:59,137 INFO     ___FILE_ONLY___ ════════════════════════════════════════════════════════════
+2024-08-06 13:31:59,137 INFO     ___FILE_ONLY___ ╝
+
+2024-08-06 13:31:59,143 INFO     ___FILE_ONLY___ ╔════════════════════════════════════════════════════════════╗
+
+2024-08-06 13:31:59,143 INFO     ___FILE_ONLY___ ╠═ Installing: Default set of gcloud commands               ═╣
+
+2024-08-06 13:31:59,143 INFO     ___FILE_ONLY___ ╚
+2024-08-06 13:31:59,147 INFO     ___FILE_ONLY___ ════════════════════════════════════════════════════════════
+2024-08-06 13:31:59,147 INFO     ___FILE_ONLY___ ╝
+
+2024-08-06 13:31:59,149 INFO     ___FILE_ONLY___ ╔════════════════════════════════════════════════════════════╗
+
+2024-08-06 13:31:59,149 INFO     ___FILE_ONLY___ ╠═ Installing: Google Cloud CLI Core Libraries (Platform... ═╣
+
+2024-08-06 13:31:59,149 INFO     ___FILE_ONLY___ ╚
+2024-08-06 13:31:59,150 INFO     ___FILE_ONLY___ ══════════════════════════════
+2024-08-06 13:31:59,150 INFO     ___FILE_ONLY___ ══════════════════════════════
+2024-08-06 13:31:59,150 INFO     ___FILE_ONLY___ ╝
+
+2024-08-06 13:31:59,156 INFO     ___FILE_ONLY___ ╔════════════════════════════════════════════════════════════╗
+
+2024-08-06 13:31:59,156 INFO     ___FILE_ONLY___ ╠═ Installing: Google Cloud CRC32C Hash Tool                ═╣
+
+2024-08-06 13:31:59,156 INFO     ___FILE_ONLY___ ╚
+2024-08-06 13:31:59,160 INFO     ___FILE_ONLY___ ════════════════════════════════════════════════════════════
+2024-08-06 13:31:59,160 INFO     ___FILE_ONLY___ ╝
+
+2024-08-06 13:31:59,162 INFO     ___FILE_ONLY___ ╔════════════════════════════════════════════════════════════╗
+
+2024-08-06 13:31:59,162 INFO     ___FILE_ONLY___ ╠═ Installing: Google Cloud CRC32C Hash Tool (Platform S... ═╣
+
+2024-08-06 13:31:59,162 INFO     ___FILE_ONLY___ ╚
+2024-08-06 13:31:59,197 INFO     ___FILE_ONLY___ ══════════════════════════════
+2024-08-06 13:31:59,197 INFO     ___FILE_ONLY___ ══════════════════════════════
+2024-08-06 13:31:59,197 INFO     ___FILE_ONLY___ ╝
+
+2024-08-06 13:31:59,203 INFO     ___FILE_ONLY___ ╔════════════════════════════════════════════════════════════╗
+
+2024-08-06 13:31:59,203 INFO     ___FILE_ONLY___ ╠═ Installing: gcloud cli dependencies (Platform Specific)  ═╣
+
+2024-08-06 13:31:59,203 INFO     ___FILE_ONLY___ ╚
+2024-08-06 13:31:59,204 INFO     ___FILE_ONLY___ ════════════════════════════════════════════════════════════
+2024-08-06 13:31:59,204 INFO     ___FILE_ONLY___ ╝
+
+2024-08-06 13:31:59,211 DEBUG    root            Updating notification cache...
+2024-08-06 13:31:59,211 INFO     ___FILE_ONLY___ 
+
+2024-08-06 13:31:59,213 INFO     ___FILE_ONLY___ Performing post processing steps...
+2024-08-06 13:31:59,213 DEBUG    root            Executing command: ['/tools/google-cloud-sdk/bin/gcloud', 'components', 'post-process']
+2024-08-06 13:32:08,826 DEBUG    ___FILE_ONLY___ 
+2024-08-06 13:32:08,826 DEBUG    ___FILE_ONLY___ 
+2024-08-06 13:32:08,977 INFO     ___FILE_ONLY___ 
+Update done!
+
+
+2024-08-06 13:32:08,980 DEBUG    root            Chosen display Format:none
+2024-08-06 13:32:08,980 INFO     root            Display format: "none"

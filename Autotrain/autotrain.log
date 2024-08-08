@@ -1,0 +1,466 @@
+Your installed package `nvidia-ml-py` is corrupted. Skip patch functions `nvmlDeviceGet{Compute,Graphics,MPSCompute}RunningProcesses`. You may get incorrect or incomplete results. Please consider reinstall package `nvidia-ml-py` via `pip3 install --force-reinstall nvidia-ml-py nvitop`.
+Your installed package `nvidia-ml-py` is corrupted. Skip patch functions `nvmlDeviceGetMemoryInfo`. You may get incorrect or incomplete results. Please consider reinstall package `nvidia-ml-py` via `pip3 install --force-reinstall nvidia-ml-py nvitop`.
+INFO     | 2024-08-08 12:11:38 | autotrain.app.ui_routes:<module>:32 - Starting AutoTrain...
+INFO     | 2024-08-08 12:11:47 | autotrain.app.ui_routes:<module>:294 - AutoTrain started successfully
+INFO     | 2024-08-08 12:11:47 | autotrain.app.app:<module>:13 - Starting AutoTrain...
+INFO     | 2024-08-08 12:11:47 | autotrain.app.app:<module>:23 - AutoTrain version: 0.8.8
+INFO     | 2024-08-08 12:11:47 | autotrain.app.app:<module>:24 - AutoTrain started successfully
+INFO:     Started server process [1781]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:7860 (Press CTRL+C to quit)
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET / HTTP/1.1" 307 Temporary Redirect
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/ HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /static/scripts/fetch_data_and_update_models.js?cb=2024-08-08%2012:12:54 HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /static/scripts/listeners.js?cb=2024-08-08%2012:12:54 HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /static/scripts/poll.js?cb=2024-08-08%2012:12:54 HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /static/scripts/utils.js?cb=2024-08-08%2012:12:54 HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /static/scripts/logs.js?cb=2024-08-08%2012:12:54 HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/model_choices/llm%3Asft HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO     | 2024-08-08 12:12:55 | autotrain.app.ui_routes:fetch_params:377 - Task: llm:sft
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/params/llm%3Asft/basic HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO     | 2024-08-08 12:14:00 | autotrain.app.ui_routes:handle_form:494 - hardware: local-ui
+INFO     | 2024-08-08 12:14:00 | autotrain.app.ui_routes:handle_form:620 - Task: lm_training
+INFO     | 2024-08-08 12:14:00 | autotrain.app.ui_routes:handle_form:621 - Column mapping: {'text': 'text'}
+
+Saving the dataset (0/1 shards):   0%|          | 0/959 [00:00<?, ? examples/s]
+Saving the dataset (1/1 shards): 100%|██████████| 959/959 [00:00<00:00, 116918.22 examples/s]
+Saving the dataset (1/1 shards): 100%|██████████| 959/959 [00:00<00:00, 114319.67 examples/s]
+
+Saving the dataset (0/1 shards):   0%|          | 0/959 [00:00<?, ? examples/s]
+Saving the dataset (1/1 shards): 100%|██████████| 959/959 [00:00<00:00, 370722.35 examples/s]
+Saving the dataset (1/1 shards): 100%|██████████| 959/959 [00:00<00:00, 351019.94 examples/s]
+INFO     | 2024-08-08 12:14:01 | autotrain.backends.local:create:8 - Starting local training...
+INFO     | 2024-08-08 12:14:01 | autotrain.commands:launch_command:478 - ['accelerate', 'launch', '--num_machines', '1', '--num_processes', '1', '--mixed_precision', 'fp16', '-m', 'autotrain.trainers.clm', '--training_config', 'autotrain-obceu-vsek1/training_params.json']
+INFO     | 2024-08-08 12:14:01 | autotrain.commands:launch_command:479 - {'model': 'TinyLlama/TinyLlama-1.1B-Chat-v1.0', 'project_name': 'autotrain-obceu-vsek1', 'data_path': 'autotrain-obceu-vsek1/autotrain-data', 'train_split': 'train', 'valid_split': None, 'add_eos_token': True, 'block_size': 1024, 'model_max_length': 2048, 'padding': 'right', 'trainer': 'sft', 'use_flash_attention_2': False, 'log': 'tensorboard', 'disable_gradient_checkpointing': False, 'logging_steps': -1, 'eval_strategy': 'epoch', 'save_total_limit': 1, 'auto_find_batch_size': False, 'mixed_precision': 'fp16', 'lr': 3e-05, 'epochs': 3, 'batch_size': 2, 'warmup_ratio': 0.1, 'gradient_accumulation': 4, 'optimizer': 'adamw_torch', 'scheduler': 'linear', 'weight_decay': 0.0, 'max_grad_norm': 1.0, 'seed': 42, 'chat_template': 'none', 'quantization': 'int4', 'target_modules': 'all-linear', 'merge_adapter': False, 'peft': True, 'lora_r': 16, 'lora_alpha': 32, 'lora_dropout': 0.05, 'model_ref': None, 'dpo_beta': 0.1, 'max_prompt_length': 128, 'max_completion_length': None, 'prompt_text_column': 'autotrain_prompt', 'text_column': 'autotrain_text', 'rejected_text_column': 'autotrain_rejected_text', 'push_to_hub': True, 'username': 'Rinpaz', 'token': '*****', 'unsloth': False}
+INFO     | 2024-08-08 12:14:01 | autotrain.backends.local:create:13 - Training PID: 2421
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "POST /ui/create_project HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+The following values were not passed to `accelerate launch` and had defaults used instead:
+	`--dynamo_backend` was set to a value of `'no'`
+To avoid this warning pass in values for each of the problematic parameters or run `accelerate config`.
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO     | 2024-08-08 12:14:15 | autotrain.trainers.clm.train_clm_sft:train:12 - Starting SFT training...
+INFO     | 2024-08-08 12:14:15 | autotrain.trainers.clm.utils:process_input_data:335 - loading dataset from disk
+INFO     | 2024-08-08 12:14:15 | autotrain.trainers.clm.utils:process_input_data:394 - Train data: Dataset({
+    features: ['label', 'autotrain_text'],
+    num_rows: 959
+})
+INFO     | 2024-08-08 12:14:15 | autotrain.trainers.clm.utils:process_input_data:395 - Valid data: None
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO     | 2024-08-08 12:14:17 | autotrain.trainers.clm.utils:configure_logging_steps:467 - configuring logging steps
+INFO     | 2024-08-08 12:14:17 | autotrain.trainers.clm.utils:configure_logging_steps:480 - Logging steps: 25
+INFO     | 2024-08-08 12:14:17 | autotrain.trainers.clm.utils:configure_training_args:485 - configuring training args
+INFO     | 2024-08-08 12:14:17 | autotrain.trainers.clm.utils:configure_block_size:548 - Using block size 1024
+INFO     | 2024-08-08 12:14:17 | autotrain.trainers.clm.utils:get_model:583 - Can use unsloth: False
+WARNING  | 2024-08-08 12:14:17 | autotrain.trainers.clm.utils:get_model:625 - Unsloth not available, continuing without it...
+INFO     | 2024-08-08 12:14:17 | autotrain.trainers.clm.utils:get_model:627 - loading model config...
+INFO     | 2024-08-08 12:14:17 | autotrain.trainers.clm.utils:get_model:635 - loading model...
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+`low_cpu_mem_usage` was None, now set to True since model is quantized.
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO     | 2024-08-08 12:17:08 | autotrain.trainers.clm.utils:get_model:666 - model dtype: torch.float16
+INFO     | 2024-08-08 12:17:09 | autotrain.trainers.clm.train_clm_sft:train:37 - creating trainer
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+/usr/local/lib/python3.10/dist-packages/huggingface_hub/utils/_deprecation.py:100: FutureWarning: Deprecated argument(s) used in '__init__': dataset_text_field, max_seq_length, packing. Will not be supported from version '1.0.0'.
+
+Deprecated positional argument(s) used in SFTTrainer, please use the SFTConfig to set these arguments instead.
+  warnings.warn(message, FutureWarning)
+/usr/local/lib/python3.10/dist-packages/trl/trainer/sft_trainer.py:192: UserWarning: You passed a `packing` argument to the SFTTrainer, the value you passed will override the one in the `SFTConfig`.
+  warnings.warn(
+/usr/local/lib/python3.10/dist-packages/trl/trainer/sft_trainer.py:280: UserWarning: You passed a `max_seq_length` argument to the SFTTrainer, the value you passed will override the one in the `SFTConfig`.
+  warnings.warn(
+/usr/local/lib/python3.10/dist-packages/trl/trainer/sft_trainer.py:318: UserWarning: You passed a `dataset_text_field` argument to the SFTTrainer, the value you passed will override the one in the `SFTConfig`.
+  warnings.warn(
+
+Generating train split: 0 examples [00:00, ? examples/s]
+Generating train split: 1 examples [00:00,  9.62 examples/s]
+Generating train split: 51 examples [00:00, 386.13 examples/s]
+INFO     | 2024-08-08 12:17:10 | autotrain.trainers.common:on_train_begin:230 - Starting to train...
+
+  0%|          | 0/18 [00:00<?, ?it/s]INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+
+  6%|▌         | 1/18 [00:07<02:09,  7.61s/it]INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+
+ 11%|█         | 2/18 [00:13<01:49,  6.86s/it]INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+
+ 17%|█▋        | 3/18 [00:20<01:39,  6.62s/it]INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+
+ 22%|██▏       | 4/18 [00:26<01:31,  6.53s/it]INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+
+ 28%|██▊       | 5/18 [00:33<01:24,  6.50s/it]INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+
+ 33%|███▎      | 6/18 [00:39<01:18,  6.53s/it]INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+
+ 39%|███▉      | 7/18 [00:45<01:09,  6.33s/it]INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+
+ 44%|████▍     | 8/18 [00:52<01:04,  6.45s/it]INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+
+ 50%|█████     | 9/18 [00:59<00:58,  6.56s/it]INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+
+ 56%|█████▌    | 10/18 [01:05<00:52,  6.62s/it]INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+
+ 61%|██████    | 11/18 [01:12<00:46,  6.63s/it]INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+
+ 67%|██████▋   | 12/18 [01:19<00:39,  6.62s/it]INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+
+ 72%|███████▏  | 13/18 [01:24<00:31,  6.37s/it]INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+
+ 78%|███████▊  | 14/18 [01:31<00:25,  6.42s/it]INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+
+ 83%|████████▎ | 15/18 [01:37<00:19,  6.43s/it]INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+
+ 89%|████████▉ | 16/18 [01:44<00:12,  6.45s/it]INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+
+ 94%|█████████▍| 17/18 [01:50<00:06,  6.46s/it]INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+
+100%|██████████| 18/18 [01:57<00:00,  6.47s/it]INFO     | 2024-08-08 12:19:08 | autotrain.trainers.common:on_log:225 - {'train_runtime': 117.4039, 'train_samples_per_second': 1.303, 'train_steps_per_second': 0.153, 'train_loss': 0.6407720247904459, 'epoch': 2.769230769230769}
+
+                                               
+
+100%|██████████| 18/18 [01:57<00:00,  6.47s/it]
+100%|██████████| 18/18 [01:57<00:00,  6.52s/it]
+{'train_runtime': 117.4039, 'train_samples_per_second': 1.303, 'train_steps_per_second': 0.153, 'train_loss': 0.6407720247904459, 'epoch': 2.77}
+INFO     | 2024-08-08 12:19:08 | autotrain.trainers.clm.utils:post_training_steps:287 - Finished training, saving model...
+INFO     | 2024-08-08 12:19:08 | autotrain.trainers.clm.utils:post_training_steps:317 - Pushing model to hub...
+
+adapter_model.safetensors:   0%|          | 0.00/50.5M [00:00<?, ?B/s]
+
+events.out.tfevents.1723119430.0268cccaf9ff.2435.0:   0%|          | 0.00/6.13k [00:00<?, ?B/s][A
+
+
+Upload 4 LFS files:   0%|          | 0/4 [00:00<?, ?it/s][A[A
+
+
+
+tokenizer.model:   0%|          | 0.00/500k [00:00<?, ?B/s][A[A[A
+
+
+
+
+training_args.bin:   0%|          | 0.00/5.43k [00:00<?, ?B/s][A[A[A[A
+
+events.out.tfevents.1723119430.0268cccaf9ff.2435.0: 100%|██████████| 6.13k/6.13k [00:00<00:00, 20.4kB/s][A
+adapter_model.safetensors:   0%|          | 16.4k/50.5M [00:00<16:30, 51.0kB/s]
+
+
+
+
+training_args.bin: 100%|██████████| 5.43k/5.43k [00:00<00:00, 17.4kB/s][A[A[A[A
+
+
+
+tokenizer.model:   3%|▎         | 16.4k/500k [00:00<00:09, 48.6kB/s][A[A[A
+training_args.bin: 100%|██████████| 5.43k/5.43k [00:00<00:00, 12.8kB/s]
+
+adapter_model.safetensors:   5%|▌         | 2.62M/50.5M [00:00<00:06, 7.64MB/s]
+events.out.tfevents.1723119430.0268cccaf9ff.2435.0: 100%|██████████| 6.13k/6.13k [00:00<00:00, 12.8kB/s]
+
+adapter_model.safetensors:   9%|▉         | 4.44M/50.5M [00:00<00:04, 10.5MB/s]
+adapter_model.safetensors:  19%|█▉        | 9.55M/50.5M [00:00<00:02, 19.8MB/s]
+tokenizer.model: 100%|██████████| 500k/500k [00:00<00:00, 662kB/s]  
+
+adapter_model.safetensors:  23%|██▎       | 11.8M/50.5M [00:00<00:02, 17.1MB/s]INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+
+adapter_model.safetensors:  32%|███▏      | 16.0M/50.5M [00:01<00:02, 12.8MB/s]
+adapter_model.safetensors:  48%|████▊     | 24.1M/50.5M [00:01<00:01, 22.4MB/s]
+adapter_model.safetensors:  54%|█████▍    | 27.2M/50.5M [00:01<00:01, 20.6MB/s]
+adapter_model.safetensors:  63%|██████▎   | 32.0M/50.5M [00:02<00:01, 16.7MB/s]
+adapter_model.safetensors:  79%|███████▉  | 40.1M/50.5M [00:02<00:00, 24.7MB/s]
+adapter_model.safetensors:  86%|████████▌ | 43.4M/50.5M [00:02<00:00, 22.8MB/s]
+adapter_model.safetensors:  95%|█████████▌| 48.0M/50.5M [00:02<00:00, 16.1MB/s]
+adapter_model.safetensors: 100%|██████████| 50.5M/50.5M [00:03<00:00, 14.6MB/s]
+
+
+
+Upload 4 LFS files:  25%|██▌       | 1/4 [00:03<00:11,  3.72s/it][A[A
+Upload 4 LFS files: 100%|██████████| 4/4 [00:03<00:00,  1.07it/s]
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO     | 2024-08-08 12:19:20 | autotrain.app.utils:get_running_jobs:26 - Killing PID: 2421
+INFO     | 2024-08-08 12:19:20 | autotrain.app.utils:kill_process_by_pid:52 - Sent SIGTERM to process with PID 2421
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/logs HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/is_model_training HTTP/1.1" 200 OK
+INFO:     2804:d4b:c802:d00:d973:d439:81da:f6cd:0 - "GET /ui/accelerators HTTP/1.1" 200 OK
