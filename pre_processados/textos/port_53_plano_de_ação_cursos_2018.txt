@@ -1,0 +1,53 @@
+Aqui está a extração e organização das informações legislativas do texto:
+
+**Título**: Portaria nº 053/2018
+
+**Data de emissão**: 28 de agosto de 2018
+
+**Data de entrada em vigor**: 28 de agosto de 2018
+
+**Instituição**: Universidade Federal do Amazonas (UFAM)
+
+**Poder Executivo**: Ministério da Educação
+Pró-Reitoria de Ensino de Graduação
+
+**Objetivo**: Estabelecer normas para elaboração do Plano de Ação de Coordenação de Curso (PACC)
+
+**Conteúdo**: O PACC deve conter informações sobre:
+
+* Levantamento das necessidades de ordem acadêmica
+* Atividades que serão desenvolvidas
+* Formas de operacionalização das atividades
+* Cronograma para a execução das atividades
+* Indicadores de qualidade que serão utilizados para mensurar as atividades
+* Formas de monitoramento, controle e avaliação periódica do discente
+
+**Estrutura do PACC**: O PACC deve ser composto pelos seguintes itens:
+
+* Unidade Acadêmica
+* Curso
+* Ano
+* Semestre
+* Conceito de curso
+* Modalidade de curso (bacharelado ou licenciatura)
+* Nota ENADE
+
+**Requisitos**: O PACC deve receber parecer favorável do respectivo Colegiado de Curso e posteriormente ser submetido à aprovação do Conselho Diretor ou Conselho Departamental, conforme o caso.
+
+**Indicadores de qualidade**: O PACC deve considerar os seguintes indicadores de qualidade:
+
+* Organização Didático-Pedagógica
+* Curso, Docente e Tutorial
+* Infraestrutura
+* Cronograma
+* Análise descrativa dos resultados
+
+**Obrigatórios**: O PACC deve conter as seguintes informações:
+
+* Contextualização
+* Planejamento das ações
+* Cronograma
+* Análise descritiva dos resultados
+* Anexos
+
+**Entrada em vigor**: A presente Portaria entra em vigor a partir da data de emissão.

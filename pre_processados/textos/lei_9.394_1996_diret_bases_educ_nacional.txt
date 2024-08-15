@@ -1,0 +1,329 @@
+Este é o extrato das informações legislativas do texto, removendo conteúdo irrelevante, normalizando o texto e estruturando em seções claras:
+
+**Título:** Lei Nº 9.394, de 20 de Dezembro de 1996 - Estabelece as diretrizes e bases da educação nacional.
+
+**Título I: Da Educação**
+
+* Art. 1º: A educação abrange os processos formativos que se desenvolvem na vida familiar, na convivência humana, no trabalho, nas instituições de ensino e pesquisa, nos movimentos sociais e organizações da sociedade civil e nas manifestações culturais.
+* Art. 2º: A educação, dever da família e do Estado, inspirada nos princípios de liberdade e nos ideais de solidariedade humana, tem por finalidade o pleno desenvolvimento do educando, seu preparo para o exercício da cidadania e sua qualificação para o trabalho.
+* Art. 3º: O ensino será ministrado com base nos seguintes princípios: igualdade de condições para o acesso e permanência na escola, liberdade de aprender, ensinar, pesquisar e divulgar a cultura, o pensamento, a arte e o saber, pluralismo de idéias e de concepções pedagógicas, respeito à liberdade e apreço à tolerância, coexistência de instituições públicas e privadas de ensino, gratuidade do ensino público em estabelecimentos oficiais, valorização do profissional da educação escolar, gestão democrática do ensino público, na forma desta Lei e da legislação dos sistemas de ensino, garantia de padrão de qualidade, valorização da experiência extra-escolar e vinculação entre a educação escolar, o trabalho e as práticas sociais.
+
+**Título II: Dos Princípios e Fins da Educação Nacional**
+
+* Art. 4º: O dever do Estado com educação escolar pública será efetivado mediante a garantia de ensino fundamental, obrigatório e gratuito, incluindo para os que a ele não tiveram acesso na idade própria; progressiva extensão da obrigatoriedade e gratuidade ao ensino médio; universalização do ensino médio gratuito; atendimento educacional especializado gratuito aos educandos com necessidades especiais, preferencialmente na rede regular de ensino; atendimento gratuito em creches e pré-escolas às crianças de zero a seis anos de idade; acesso aos níveis mais elevados do ensino, da pesquisa e da criação artística, segundo a capacidade de cada um; oferta de ensino noturno regular, adequado às condições do educando; oferta de educação escolar regular para jovens e adultos, com características e modalidades adequadas às suas necessidades e disponibilidades, garantindo-se aos que forem trabalhadores as condições de acesso e permanência na escola; padrões mínimos de qualidade de ensino, definidos como a variedade e quantidade mínimas, por aluno, de insumos indispensáveis ao desenvolvimento do processo de ensino-aprendizagem.
+* Art. 5º: O acesso ao ensino fundamental é direito público subjetivo, podendo qualquer cidadão, grupo de cidadãos, associação comunitária, organização sindical, entidade de classe ou outra legalmente constituída, e, ainda, o Ministério Público, acionar o Poder Público para exigir isso.
+* Art. 6º: É dever dos pais ou responsáveis efetuar a matrícula dos menores, a partir dos sete anos de idade, no ensino fundamental.
+
+**Título III: Do Direito à Educação e do Dever de Educar**
+
+* Art. 7º: O ensino é livre à iniciativa privada, atendidas as seguintes condições: cumprimento das normas gerais da educação nacional e do respectivo sistema de ensino; autorização de funcionamento e avaliação de qualidade pelo Poder Público; capacidade de autofinanciamento, ressalvado o previsto no art. 213 da Constituição Federal.
+
+**Título IV: Da Organização da Educação Nacional**
+
+* Art. 8º: A União, os Estados, o Distrito Federal e os Municípios organizarão, em regime de colaboração, os respectivos sistemas de ensino.
+* Art. 9º: A União incumbir-se-á de elaborar o Plano Nacional de Educação, em colaboração com os Estados, o Distrito Federal e os Municípios; organizar, manter e desenvolver os órgãos e instituições oficiais do sistema federal de ensino e do Território; prestar assistência técnica e financeira aos Estados, ao Distrito Federal e aos Municípios para o desenvolvimento de seus sistemas de ensino e o atendimento prioritário à escolaridade obrigatória; estabelecer, em colaboração com os Estados, o Distrito Federal e os Municípios, competências e diretrizes para a educação infantil, o ensino fundamental e o ensino médio, que nortearão os currículos e seus conteúdos mínimos, de modo a assegurar formação básica comum; coletar, analisar e disseminar informações sobre a educação; assegurar processo nacional de avaliação do rendimento escolar no ensino fundamental, médio e superior, em colaboração com os sistemas de ensino, objetivando a definição de prioridades e a melhoria da qualidade do ensino; baixar normas gerais sobre cursos de graduação e pós-graduação; assegurar processo nacional de avaliação das instituições de educação superior, com a cooperação dos sistemas que tiverem responsabilidade sobre este nível de ensino; autorizar, reconhecer, credenciar, supervisionar e avaliar, respectivamente, os cursos das instituições de educação superior e os estabelecimentos do seu sistema de ensino.
+* Art. 10: Os Estados incumbir-se-ão de organizar, manter e desenvolver os órgãos e instituições oficiais dos seus sistemas de ensino; definir, com os Municípios, formas de colaboração na oferta do ensino fundamental, as quais devem assegurar a distribuição proporcional das responsabilidades, de acordo com a população a ser atendida e os recursos financeiros disponíveis em cada uma dessas esferas do Poder Público; elaborar e executar políticas e planos educacionais, em consonância com as diretrizes e planos nacionais de educação, integrando e coordenando as suas ações e as dos seus Municípios; autorizar, reconhecer, credenciar, supervisor
+Aqui está a extração e organização das informações legislativas do texto:
+
+**Título I: Organização do Sistema de Ensino**
+
+* Art. 11: Os Municípios incumbir-se-ão de:
+	+ Organizar, manter e desenvolver os órgãos e instituições oficiais dos seus sistemas de ensino
+	+ Exercer ação redistributiva em relação às suas escolas
+	+ Baixar normas complementares para o seu sistema de ensino
+	+ Autorizar, credenciar e supervisionar os estabelecimentos do seu sistema de ensino
+	+ Oferecer a educação infantil em creches e pré-escolas, e o ensino fundamental com prioridade
+	+ Assumar o transporte escolar dos alunos da rede municipal (Lei nº 10.709, de 31.7.2003)
+* Parágrafo único: Os Municípios podem optar por se integrar ao sistema estadual de ensino ou compor com ele um sistema único de educação básica
+
+**Título II: Incumbências dos Estabelecimentos de Ensino**
+
+* Art. 12: Os estabelecimentos de ensino terão as seguintes incumbências:
+	+ Elaborar e executar sua proposta pedagógica
+	+ Administrar seu pessoal e seus recursos materiais e financeiros
+	+ Assegurar o cumprimento dos dias letivos e horas-aula estabelecidas
+	+ Velar pelo cumprimento do plano de trabalho de cada docente
+	+ Prover meios para a recuperação dos alunos de menor rendimento
+	+ Articular-se com as famílias e a comunidade
+	+ Informar os pais e responsáveis sobre a freqüência e o rendimento dos alunos bem como sobre a execução da proposta pedagógica (Lei nº 12.013, de 2009)
+	+ Notificar ao Conselho Tutelar do Município, ao juiz competente da Comarca e ao respectivo representante do Ministério Público a relação dos alunos que apresentem quantidade de faltas acima de cinqüenta por cento do percentual permitido em lei (Lei nº 10.287, de 2001)
+
+**Título III: Incumbências dos Docentes**
+
+* Art. 13: Os docentes incumbir-se-ão de:
+	+ Participar da elaboração da proposta pedagógica do estabelecimento de ensino
+	+ Elaborar e cumprir plano de trabalho, segundo a proposta pedagógica do estabelecimento de ensino
+	+ Zelar pela aprendizagem dos alunos
+	+ Estabelecer estratégias de recuperação para os alunos de menor rendimento
+	+ Ministrar os dias letivos e horas-aula estabelecidas, além de participar integralmente dos períodos dedicados ao planejamento, à avaliação e ao desenvolvimento profissional
+	+ Colaborar com as atividades de articulação da escola com as famílias e a comunidade
+
+**Título IV: Sistema Federal de Ensino**
+
+* Art. 16: O sistema federal de ensino compreende:
+	+ As instituições de ensino mantidas pela União
+	+ As instituições de educação superior criadas e mantidas pela iniciativa privada
+	+ Os órgãos federais de educação
+
+**Título V: Níveis e Modalidades de Educação e Ensino**
+
+* CAPÍTULO I: Composição dos Níveis Escolares
+	+ Art. 21: A educação escolar compõe-se de:
+		- Educação básica, formada pela educação infantil, ensino fundamental e ensino médio
+		- Educação superior
+
+Essas são as informações legislativas extraídas e organizadas do texto.
+**Estatuto da Educação Nacional**
+
+**Seção I: Da Educação Básica**
+
+**Art. 25**: Será objetivo permanente das autoridades responsáveis alcançar relação adequada entre o número de alunos e o professor, a carga horária e as condições materiais do estabelecimento.
+
+**Parágrafo Único**: Cabe ao respectivo sistema de ensino, à vista das condições disponíveis e das características regionais e locais, estabelecer parâmetro para atendimento do disposto neste artigo.
+
+**Art. 26**: Os currículos do ensino fundamental e médio devem ter uma base nacional comum, a ser complementada, em cada sistema de ensino e estabelecimento escolar, por uma parte diversificada, exigida pelas características regionais e locais da sociedade, da cultura, da economia e da clientela.
+
+**§ 1º**: Os currículos a que se refere o caput devem abranger, obrigatoriamente, o estudo da língua portuguesa e da matemática, o conhecimento do mundo físico e natural e da realidade social e política, especialmente do Brasil.
+
+**§ 2º**: O ensino da arte constituirá componente curricular obrigatório, nos diversos níveis da educação básica, de forma a promover o desenvolvimento cultural dos alunos.
+
+**§ 3º**: A educação física, integrada à proposta pedagógica da escola, é componente curricular da Educação Básica, ajustando-se às faixas etárias e às condições da população escolar, sendo facultativa nos cursos noturnos.
+
+**§ 4º**: O ensino da História do Brasil levará em conta as contribuições das diferentes culturas e etnias para a formação do povo brasileiro, especialmente das matrizes indígena, africana e européia.
+
+**Art. 26-A**: Nos estabelecimentos de ensino fundamental e médio, torna-se obrigatório o estudo da história e cultura afro-brasileira e indígena.
+
+**§ 1o**: O conteúdo programático a que se refere este artigo incluirá diversos aspectos da história e da cultura que caracterizam a formação da população brasileira, a partir desses dois gruposetnicos, tais como o estudo da história da África e dos africanos, a luta dos negros e dos povos indígenas no Brasil, a cultura negra e indígena brasileira e o negro e o índio na formação da sociedade nacional, resgatando as suas contribuições nas áreas social, econômica e política, pertinentes à história do Brasil.
+
+**§ 2o**: Os conteúdos referentes à história e cultura afro-brasileira e dos povos indígenas brasileiros serão ministrados no âmbito de todo o currículo escolar, em especial nas áreas de educação artística e de literatura e história brasileiras.
+
+**Art. 27**: Os conteúdos curriculares da educação básica observarão, ainda, as seguintes diretrizes:
+
+I - a difusão de valores fundamentais ao interesse social, aos direitos e deveres dos cidadãos, de respeito ao bem comum e à ordem democrática;
+
+II - consideração das condições de escolaridade dos alunos em cada estabelecimento;
+
+III - orientação para o trabalho;
+
+IV - promoção do desporto educacional e apoio às práticas desportivas não-formais.
+
+**Art. 28**: Na oferta de educação básica para a população rural, os sistemas de ensino promoverão as adaptações necessárias à sua adequação às peculiaridades da vida rural e de cada região.
+
+**Art. 32**: O ensino fundamental, com duração mínima de oito anos, obrigatório e gratuito na escola pública, terá por objetivo a formação básica do cidadão, mediante...
+
+**Seção II: Da Educação Infantil**
+
+**Art. 29**: A educação infantil, primeira etapa da educação básica, tem como finalidade o desenvolvimento integral da criança até seis anos de idade, em seus aspectos físico, psicológico, intelectual e social, complementando a ação da família e da comunidade.
+
+**Art. 30**: A educação infantil será oferecida em:
+
+I - creches, ou entidades equivalentes, para crianças de até três anos de idade;
+
+II - pré-escolas, para as crianças de quatro a seis anos de idade.
+
+**Art. 31**: Na educação infantil a avaliação far-se-á mediante acompanhamento e registro do seu desenvolvimento, sem o objetivo de promoção, mesmo para o acesso ao ensino fundamental.
+
+**Seção III: Do Ensino Fundamental**
+
+**Art. 32**: O ensino fundamental, com duração mínima de oito anos, obrigatório e gratuito na escola pública, terá por objetivo a formação básica do cidadão, mediante...
+** Lei de Ensino Fundamental e Médio **
+
+**Seção I - Do Ensino Fundamental**
+
+* O ensino fundamental é obrigatório e gratuito na escola pública, com duração de 9 anos (Art. 1º)
+* O objetivo do ensino fundamental é formar o cidadão, mediante:
+	+ Desenvolvimento da capacidade de aprender
+	+ Compreensão do ambiente natural e social
+	+ Desenvolvimento da capacidade de aprendizagem
+	+ Fortalecimento dos vínculos de família e solidariedade humana (Art. 1º)
+* É facultado aos sistemas de ensino desdobrar o ensino fundamental em ciclos (§ 1º)
+* O ensino fundamental regular será ministrado em língua portuguesa, assegurada às comunidades indígenas a utilização de suas línguas maternas (§ 3º)
+* O ensino fundamental será presencial, com apoio de ensino a distância em situações emergenciais (§ 4º)
+* O currículo do ensino fundamental incluirá conteúdo sobre os direitos das crianças e adolescentes, de acordo com a Lei nº 8.069/1990 (§ 5º)
+* O ensino religioso é facultativo e constituirá disciplina dos horários normais das escolas públicas de ensino fundamental (Art. 33)
+
+**Seção IV - Do Ensino Médio**
+
+* O ensino médio é etapa final da educação básica, com duração mínima de três anos (Art. 35)
+* As finalidades do ensino médio são:
+	+ Consolidar e aprofundar os conhecimentos adquiridos no ensino fundamental
+	+ Preparar o educando para o trabalho e cidadania
+	+ Aperfeiçoar o educando como pessoa humana
+	+ Compreender os fundamentos científico-tecnológicos dos processos produtivos (Art. 35)
+* O currículo do ensino médio observará as diretrizes da Seção I deste Capítulo e incluirá:
+	+ Educação tecnológica básica
+	+ Compreensão do significado da ciência, letras e artes
+	+ Língua portuguesa como instrumento de comunicação
+	+ Preparação para o exercício de profissões técnicas (Art. 36)
+
+**Seção IV-A - Da Educação Profissional Técnica de Nível Médio**
+
+* A educação profissional técnica de nível médio é destinada a preparar os alunos para o exercício de profissões técnicas (Art. 36-A)
+* A educação profissional técnica de nível médio pode ser desenvolvida nas seguintes formas:
+	+ Articulada com o ensino médio
+	+ Subseqüente, em cursos destinados a quem já tenha concluído o ensino médio (Art. 36-B)
+* A educação profissional técnica de nível médio deve observar os objetivos e definições contidos nas diretrizes curriculares nacionais estabelecidas pelo Conselho Nacional de Educação (Parágrafo único do Art. 36-B)
+Aqui está a extração e organização das informações legislativas do texto:
+
+**CAPÍTULO II - DA EDUCAÇÃO DE JOVENS E ADULTOS**
+
+* Secção 1: Os sistemas de ensino assegurarão oportunidades educacionais apropriadas para jovens e adultos que não puderam efetuar os estudos na idade regular.
+* Secção 2: O Poder Público viabilizará e estimulará o acesso e a permanência do trabalhador na escola, mediante ações integradas e complementares.
+* Secção 3: A educação de jovens e adultos deve articular-se, preferencialmente, com a educação profissional.
+
+**CAPÍTULO III - DA EDUCAÇÃO PROFISSIONAL**
+
+* Art. 39: A educação profissional integra-se aos diferentes níveis e modalidades de educação e às dimensões do trabalho, da ciência e da tecnologia.
+* Secção 1: Os cursos de educação profissional e tecnológica podem ser organizados por eixos tecnológicos.
+* Secção 2: A educação profissional e tecnológica abrangerá cursos de formação inicial e continuada, educação profissional técnica de nível médio e educação profissional tecnológica de graduação e pós-graduação.
+* Secção 3: Os cursos de educação profissional tecnológica de graduação e pós-graduação organizar-se-ão de acordo com as diretrizes curriculares nacionais.
+
+**CAPÍTULO IV - DA EDUCAÇÃO SUPERIOR**
+
+* Art. 43: A educação superior tem por finalidade estimular a criação cultural, o desenvolvimento do espírito científico e do pensamento reflexivo, formar diplomados, incentivar o trabalho de pesquisa científica, promover a divulgação de conhecimentos culturais, científicos e técnicos e estimular a correspondente concretização.
+* Art. 44: A educação superior abrangerá cursos seqüenciais por campo de saber, cursos de graduação, pós-graduação, extensão e outros.
+* Art. 45: A educação superior será ministrada em instituições de ensino superior, públicas ou privadas.
+* Art. 46: A autorização e o reconhecimento de cursos, bem como o credenciamento de instituições de educação superior, terão prazos limitados e serão renovados periodicamente.
+* Art. 47: Na educação superior, o ano letivo regular terá, no mínimo, duzentos dias de trabalho acadêmico efetivo.
+* Art. 48: Os diplomas de cursos superiores reconhecidos terão validade nacional como prova da formação recebida por seu titular.
+
+**OUTRAS PROVISÕES**
+
+* Art. 38: Os sistemas de ensino manterão cursos e exames supletivos, que compreenderão a base nacional comum do currículo, habilitando ao prosseguimento de estudos em caráter regular.
+* Parágrafo único: Os exames supletivos realizar-se-ão no nível de conclusão do ensino fundamental para os maiores de quinze anos e no nível de conclusão do ensino médio para os maiores de dezoito anos.
+* Art. 41: O conhecimento adquirido na educação profissional e tecnológica, inclusive no trabalho, poderá ser objeto de avaliação, reconhecimento e certificação para prosseguimento ou conclusão de estudos.
+* Parágrafo único: Os diplomas de cursos de educação profissional de nível médio, quando registrados, terão validade nacional.
+Aqui encontrei as informações legislativas relevantes organizadas em seções claras:
+
+**I - Revalidação de Diplomas e Reconhecimento de Cursos**
+
+* Revalidação de diplomas de graduação expedidos por universidades estrangeiras por universidades públicas que tenham curso do mesmo nível e área ou equivalente.
+* Reconhecimento de diplomas de Mestrado e Doutorado expedidos por universidades estrangeiras somente por universidades que possuam cursos de pós-graduação reconhecidos e avaliados.
+
+**II - Transfência de Alunos e Acesso à Matrícula**
+
+* Impossibilidade de transferência de alunos regulares para courses afins sem processo seletivo e existência de vagas.
+* Possibilidade de abertura de matrícula para alunos não regulares que demonstrem capacidade de cursá-las com proveito, mediante processo seletivo prévio.
+
+**III - Universidades e Autonomia**
+
+* Definição de universidades como instituições pluridisciplinares de formação dos quadros profissionais de nível superior, pesquisa, extensão e domínio e cultivo do saber humano.
+* Universidades têm autonomia para criar, organizar e extinguir cursos e programas de educação superior, fixar currículos, estabelecer planos, programas e projetos de pesquisa, produção artística e atividades de extensão, e conferir graus, diplomas e outros títulos.
+
+**IV - Atribuições das Universidades**
+
+* Atribuições das universidades incluem criar, organizar e extinguir cursos e programas, fixar currículos, estabelecer planos, programas e projetos, conferir graus, diplomas e outros títulos, firmar contratos, acordos e convênios, e administrar rendimentos.
+
+**V - Estatuto Jurídico Especial**
+
+* Universidades públicas têm estatuto jurídico especial para atender às peculiaridades de sua estrutura, organização e financiamento pelo Poder Público.
+
+**VI - Autonomia Universitária**
+
+* Atribuições de autonomia universitária incluem propor quadro de pessoal docente, técnico e administrativo, estabelecer planos, programas e projetos de investimentos, elaborar orçamentos anuais e plurianuais, e realizar operações de crédito ou de financiamento.
+
+**VII - Educação Especial**
+
+* Definição de educação especial como modalidade de educação escolar oferecida preferencialmente na rede regular de ensino para educandos portadores de necessidades especiais.
+
+**VIII - Atendimento Educacional**
+
+* Atendimento educacional para educandos com necessidades especiais inclui currículos, métodos, técnicas, recursos educativos e organização específicos, professores especializados e professores do ensino regular capacitados para a integração desses educandos nas classes comuns.
+
+**IX - Profissionais da Educação**
+
+* Definição de profissionais da educação como aqueles formados em cursos reconhecidos e em efetivo exercício, com habilitação em nível médio ou superior para a docência na educação infantil e nos ensinos fundamental e médio.
+
+Espero que isso tenha ajudado!
+Aqui está a extração e organização das informações legislativas do texto:
+
+** Lei nº 12.014, de 2009**
+
+* Art. 1: A formação de profissionais da educação terá como fundamentos a presença de sólida formação básica, a associação entre teorias e práticas, e o aproveitamento da formação e experiências anteriores.
+
+**Art. 62: Formação de docentes**
+
+* A formação de docentes para atuar na educação básica far-se-á em nível superior, em curso de licenciatura, de graduação plena, em universidades e institutos superiores de educação.
+* A formação mínima para o exercício do magistério na educação infantil e nas quatro primeiras séries do ensino fundamental é oferecida em nível médio, na modalidade Normal.
+
+**Art. 63: Atividades dos institutos superiores de educação**
+
+* Os institutos superiores de educação manterão cursos formadores de profissionais para a educação básica, programas de formação pedagógica para portadores de diplomas de educação superior e programas de educação continuada para os profissionais de educação dos différents níveis.
+
+**Art. 64: Formação de profissionais para administração, planejamento, inspeção, supervisão e orientação educacional**
+
+* A formação de profissionais para administração, planejamento, inspeção, supervisão e orientação educacional para a educação básica será feita em cursos de graduação em pedagogia ou em nível de pós-graduação, a critério da instituição de ensino, garantida a base comum nacional.
+
+**Art. 65: Formação docente**
+
+* A formação docente, exceto para a educação superior, incluirá prática de ensino de, no mínimo, trezentas horas.
+
+**Art. 66: Preparação para o exercício do magistério superior**
+
+* A preparação para o exercício do magistério superior far-se-á em nível de pós-graduação, prioritariamente em programas de mestrado e doutorado.
+
+**Art. 67: Valorização dos profissionais da educação**
+
+* Os sistemas de ensino promoverão a valorização dos profissionais da educação, devendo assegurar-lhes ingresso exclusivamente por concurso público de provas e títulos, aperfeiçoamento profissional continuado, piso salarial profissional, progressão funcional baseada na titulação ou habilitação, e avaliação do desempenho.
+
+**Título VII: Dos Recursos financeiros**
+
+* Art. 68: Serão recursos públicos destinados à educação os originários de receita de impostos próprios da União, dos Estados, do Distrito Federal e dos Municípios, receita de transferências constitucionais e outras transferências, receita do salário-educação e de outras contribuições sociais, receita de incentivos fiscais e outros recursos previstos em lei.
+* Art. 69: A União aplicará, anualmente, nunca menos de 18%, e os Estados, o Distrito Federal e os Municípios, 25% da receita resultante de impostos, compreendidas as transferências constitucionais, na manutenção e desenvolvimento do ensino público.
+* Art. 70: Considerar-se-ão como de manutenção e desenvolvimento do ensino as despesas realizadas com vistas à consecução dos objetivos básicos das instituições educacionais de todos os níveis, compreendendo as que se destinam à remuneração e aperfeiçoamento do pessoal docente e demais profissionais da educação, aquisição, manutenção, construção e conservação de instalações e equipamentos necessários ao ensino, uso e manutenção de bens e serviços vinculados ao ensino, levantamentos estatísticos, estudos e pesquisas, realização de atividades-meio necessárias ao funcionamento dos sistemas de ensino, concessão de bolsas de estudo a alunos de escolas públicas e privadas, amortização e custeio de operações de crédito destinadas a atender ao disposto nos incisos desse artigo, aquisição de material didático-escolar e manutenção de programas de transporte escolar.
+* Art. 71: Não constituirão despesas de manutenção e desenvolvimento do ensino aquelas realizadas com pesquisa quando não vinculada às instituições de ensino, ou quando efetivada fora dos sistemas de ensino que não vise, precipuamente, ao aprimoramento de sua qualidade ou à sua expansão; subvenção a instituições públicas ou privadas de caráter assistencial, desportivo ou cultural; formação de quadros especiais para a administração pública; programas suplementares de alimentação, assistência médico-odontológica, farmacêutica e psicológica, e outras formas de assistência social; obras de infra-estrutura, ainda que realizadas para beneficiar direta ou indiretamente a rede escolar; pessoal docente e demais trabalhadores da educação, quando em desvio de função ou em atividade alheia à manutenção e desenvolvimento do ensino.
+* Art. 72: As receitas e despesas com manutenção e desenvolvimento do ensino serão apuradas e publicadas nos balanços do Poder Público, assim como nos relatórios a que se refere o § 3º do art. 165 da Constituição Federal.
+* Art. 73: Os órgãos fiscalizadores examinarão, prioritariamente, na prestação de contas de recursos públicos, o cumprimento do disposto no art. 212 da Constituição Federal, no art. 60 do Ato das Disposições Constitucionais Transitórias e na legislação concernente.
+* Art. 74: A União, em colaboração com os Estados, o Distrito Federal e os Municípios, estabelecerá padrão mínimo de oportunidades educacionais para o ensino fundamental, baseado no cálculo do custo mínimo por aluno, capaz de assegurar ensino de qualidade.
+Aqui está a extração e organização das informações legislativas do texto:
+
+**Título VII - Da Capacidade de Atendimento e do Ensino**
+
+* Art. 74: A ação supletiva e redistributiva prevista no artigo anterior ficará condicionada ao efetivo cumprimento pelos Estados, Distrito Federal e Municípios do disposto nesta Lei.
+* Art. 75: Os recursos públicos serão destinados às escolas públicas, podendo ser dirigidos a escolas comunitárias, confessionais ou filantrópicas que atendam determinados critérios.
+* § 1º do Art. 75: Os recursos de que trata este artigo poderão ser destinados a bolsas de estudo para a educação básica, na forma da lei, para os que demonstrarem insuficiência de recursos.
+
+**Título VIII - Das Disposições Gerais**
+
+* Art. 78: O Sistema de Ensino da União desenvolverá programas integrados de ensino e pesquisa para oferta de educação escolar bilingüe e intercultural aos povos indígenas.
+* Art. 79: A União apoiará técnica e financeiramente os sistemas de ensino no provimento da educação intercultural às comunidades indígenas.
+* Art. 80: O Poder Público incentivará o desenvolvimento e a veiculação de programas de ensino a distância, em todos os níveis e modalidades de ensino, e de educação continuada.
+
+**Título IX - Das Disposições Transitórias**
+
+* Art. 87: É instituída a Década da Educação, a iniciar-se um ano a partir da publicação desta Lei.
+* § 1º do Art. 87: A União, no prazo de um ano a partir da publicação desta Lei, encaminhará, ao Congresso Nacional, o Plano Nacional de Educação, com diretrizes e metas para os dez anos seguintes.
+* § 2º do Art. 87: O Poder Público deverá recensear os educandos no ensino fundamental, com especial atenção para os grupos de sete a quatorze e de quinze a dezesseis anos de idade.
+* § 3º do Art. 87: Cada Município e, supletivamente, o Estado e a União, deverá:
+	+ Matricular todos os educandos a partir dos sete anos de idade e, facultativamente, a partir dos seis anos, no ensino fundamental;
+	+ Prover cursos presenciais ou a distância aos jovens e adultos insuficientemente escolarizados;
+	+ Realizar programas de capacitação para todos os professores em exercício, utilizando também, para isto, os recursos da educação a distância;
+	+ Integrar todos os estabelecimentos de ensino fundamental do seu território ao sistema nacional de avaliação do rendimento escolar.
+
+**Disposições Gerais**
+
+* Arts. 81 a 86: Regulamentam a organização de cursos ou instituições de ensino experimentais, a realização de estágios dos alunos regularmente matriculados no ensino médio ou superior, o ensino militar e a abertura de concursos públicos de provas e títulos para cargo de docente de instituição pública de ensino.
+Aqui estão as informações legislativas extraídas e organizadas em seções claras:
+
+**Condições para Recebimento de Assistência Financeira**
+
+* A assistência financeira da União aos Estados, Distrito Federal e Municípios, bem como a dos Estados aos seus Municípios, está condicionada ao cumprimento do art. 212 da Constituição Federal e dispositivos legais pertinentes.
+
+**Adaptação da Legislação Educacional**
+
+* A União, os Estados, o Distrito Federal e os Municípios devem adaptar sua legislação educacional e de ensino às disposições desta Lei (Art. 88) no prazo máximo de um ano a partir da data de sua publicação.
+* As instituições educacionais devem adaptar seus estatutos e regimentos aos dispositivos desta Lei e às normas dos respectivos sistemas de ensino (§ 1º) nos prazos por estes estabelecidos.
+* As universidades têm um prazo de oito anos para cumprir o disposto nos incisos II e III do art. 52 (§ 2º).
+
+**Integração de Creches e Pré-Escolas**
+
+* As creches e pré-escolas existentes ou que venham a ser criadas devem se integrar ao respectivo sistema de ensino no prazo de três anos a contar da publicação desta Lei (Art. 89).
+
+**Transição e Resolução de Questões**
+
+* As questões suscitadas na transição entre o regime anterior e o que se institui nesta Lei serão resolvidas pelo Conselho Nacional de Educação ou, mediante delegação deste, pelos órgãos normativos dos sistemas de ensino (Art. 90), preservada a autonomia universitária.
+
+**Vigência e Revogação de Leis**
+
+* Esta Lei entra em vigor na data de sua publicação (Art. 91).
+* Revogam-se as disposições das Leis nºs 4.024, 5.540, 5.692, 7.044 e 9.131 e 9.192, não alteradas pelas Leis nºs 9.131 e 9.192, e as demais leis e decretos-lei que as modificaram e quaisquer outras disposições em contrário (Art. 92).

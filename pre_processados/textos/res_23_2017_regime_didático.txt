@@ -1,0 +1,59 @@
+Aqui está a extração e organização das informações legislativas do texto:
+
+**Resolução nº 023/2017**
+
+* Título: Dispõe sobre o regime didático dos cursos de graduação na Universidade Federal do Amazonas.
+* Data de aprovação: 03 de maio de 2017
+* Conselho de Ensino, Pesquisa e Extensão: UFAM
+
+**Artigos**
+
+* Art. 10:
+	+ Discente aprovado: Média Final igual ou superior a 5,0 e frequência de 78%.
+	+ Dispensa da prova final (PF)
+* Art. 11:
+	+ Ausência do docente: reprogramar atividade, substituir por outro docente ou comunicar à Coordenação do Curso.
+
+**Capítulo IV - Das Atividades Docentes**
+
+* Art. 12:
+	+ Justificativa de ausência: doença Infectocontagiosa, estado de gravidez, luto, missão militar, convocação para exercício, reservista, depoimento judicial, eventos científicos ou acadêmicos, doação de sangue.
+
+**Capítulo V - Da Atividade Discente**
+
+* Art. 13:
+	+ Requerimento de justificativa de ausência: compulsory, no prazo de 5 dias úteis, com documento disciplinado pelo art. 12.
+	+ Indeferimento: não ter documentos, ser intempestivo ou não se coadunar com a justificativa prevista nesta Resolução.
+
+**ANEXO II**
+
+* Informações gerais sobre o curso:
+	+ Curso: [Nome do curso]
+	+ Período letivo: [Data inicial e final]
+	+ Disciplina: [Nome da disciplina]
+	+ Carga horária total: [Valor]
+	+ Créditos: [Valor]
+	+ Professores: [Nome do professor(es)]
+	+ Email: [Email do professor(es)]
+
+**Horário e local de atendimento**
+
+* Feira - Quarta-feira: 14h00-18h00, Sala de professores do Departamento XXXX
+* Feira - Quinta-feira: 00h09-00h06, Sala de professores do Departamento XXXX
+
+**Aulas**
+
+* Datas
+* Carga horária (TP)
+* Tipo de aula (teórica ou prática)
+* Conteúdo
+* Professor
+
+**Leis citadas**
+
+* Lei nº 9.394/96 - Lei de Diretrizes e Bases da Educação Nacional
+* Lei nº 10.861/04 - Sistema Nacional de Avaliação da Educação Superior - SINAES
+* Lei nº 6.202/75 - Atribui regime de exercícios domiciliares
+* Decreto-Lei nº 1.044/64 - Serviço Militar
+* Decreto-Lei nº 715/64 - Lei do Serviço Militar
+* Art. 207 da Constituição Federal

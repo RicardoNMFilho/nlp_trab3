@@ -1,0 +1,77 @@
+Aqui está a extração e organização das informações legislativas do texto:
+
+**Resolução Nº 020/2019**
+
+* Título: Regulamenta a criação de curso, criação e modificação curricular e extinção de curso superior no âmbito da UFAM.
+* Data de aprovação: 16 de dezembro de 2019.
+* Público-alvo: Universidade Federal do Amazonas (UFAM).
+
+**Seção I - Criação de Curso, Criação e Modificação Curricular e Extinção de Curso Superior**
+
+* Art. 1º: A criação, modificação curricular e extinção de curso superior na modalidade presencial e a distância devem obedecer às normas contidas nesta resolução.
+* Art. 2º: A criação de curso superior na modalidade presencial e a distância deve compor a política institucional da UFAM, constando do Plano de Desenvolvimento Institucional (PDI), do Projeto Pedagógico Institucional (PPI) e do Projeto Pedagógico do Curso (PPC).
+* Art. 3º: Para a criação de curso superior, a unidade acadêmica deve fazer um estudo de demanda de natureza social, econômica e institucional, mencionada pela PROZG e pela PROPLAN, para mostrar a viabilidade do curso.
+* Art. 4º: A unidade acadêmica deve elaborar o Plano de Implantação do Curso, que deve considerar a viabilidade e prever o planejamento das ações institucionais para a criação e funcionamento do curso.
+
+**Seção II - Da Elaboração do PPC**
+
+* Art. 6º: A criação de curso superior deve ser precedida da elaboração da proposta do PPC, prevista no inciso IV do art. 4º e obedecer aos seguintes procedimentos: constitução de uma comissão responsável para a elaboração da proposta do PPC, apreciação e aprovação pelo colegiado de curso, envio ao DAE/PROEG e aprovação conjunta da Câmara de Ensino de Graduação (CEGICONSEPE) e do CONSEPE.
+* Art. 7º: O PPC deve observar o disposto na Lei de Diretrizes e Bases da Educação Nacional (LDSEN), nas Diretrizes Curriculares Nacionais (DCN's) e definições do Conselho Nacional de Educação (CNE).
+
+**Seção III - Do Currículo**
+
+* Art. 8º: O currículo de um curso é constituído pelos componentes curriculares obrigatórios, optativos e/ou eletivos, estágios obrigatórios e trabalho de conclusão do curso (TCC).
+* Art. 9º: Entender-se-á por componente curricular um componente desenvolvido em um período letivo e que compõe a matriz curricular de determinado curso.
+* Art. 10: Entender-se-á por componente optativo um componente que é de livre escolha do aluno para compor o seu currículo.
+* Art. 11: Entender-se-á por componente eletivo um componente curricular definido pela coordenação do curso para fins de enriquecimento cultural e de aprofundamento de conhecimentos específicos.
+* Art. 12: A carga horária de cada componente curricular será calculada com base no número de créditos e tipo de componente (teórico, prático ou teórico-prático).
+
+**Seção IV - Outras Disposições**
+
+* Art. 15: Na organização do currículo, o NDE e o colegiado de curso devem respeitar os limites mínimo e máximo de tempo para integralização curricular.
+* Art. 16: Para definição do número de créditos por período letivo, adotar-se-á o seguinte cálculo: número máximo de créditos por período = número total de créditos do curso dividido pelo número de períodos do curso.
+* Art. 17: O PPC deve ser avaliado conforme o ciclo avaliativo vigente do curso definido pelo INEP, envolvendo a participação ampla do NDE, discentes, discentes matriculados e/ou egressos e a comunidade acadêmica em geral.
+**Normas para Criação e Modificação da Matriz Curricular**
+
+**1. Criação da Matriz Curricular**
+
+* A criação da matriz curricular será proposta pelo NDE e submetida ao colegiado de curso.
+* O colegiado de curso encaminhará a proposta para análise do DAE/PROEG e posterior deliberação pela CEGICONSEPE.
+* A criação e modificação da matriz curricular obedece às DCN's.
+
+**2. Modificações na Matriz Curricular**
+
+* Modificações na matriz curricular serão efetivadas nos seguintes níveis:
+	+ 1º Alteração curricular: quando não houver mudanças nos componentes curriculares definidos pelas DCN's e manter o ano de implantação do currículo em vigor.
+	+ 2º Reformulação curricular: quando houver mudanças amplas na estrutura e organização do currículo em vigor.
+* A reformulação curricular resultará na criação de uma nova matriz curricular com vigência conforme previsto no PPC e deve atender aos seguintes itens:
+	+ Considerar os resultados da avaliação externa realizada pelo INEP, quanto ao currículo do curso, e da avaliação interna, quando realizada pelo curso.
+	+ Revisão/actualização dos tópicos que compõem os PPG's.
+	+ Presentação de atas de aprovação pelo NDE e pelo colegiado de curso.
+	+ Presentação de atas de aprovação pelo departamento, se tratar de componentes curriculares ofertados por outro curso.
+	+ Quadro com desdobramento de conteúdos em componente curricular conforme diretriz curricular para o curso de graduação, em vigor.
+	+ Relação de componentes curriculares extintos, criados e possíveis equivalências (quadro de equivalência).
+	+ Presentação de quadro de integralização curricular, com definição do prazo de vigência do currículo em curso e da oferta de períodos até a conclusão da primeira turma no novo currículo (quadro de transição curricular).
+* Após a reformulação curricular, o coordenador de curso deverá encaminhar a lista nominal dos discentes que deverão migrar para a versão curricular vigente, tendo em vista a inativação da versão curricular ativa.
+
+**3. Registros de Matriz Curricular**
+
+* A configuração curricular, resultante de processos de alteração ou de reformulação, somente será registrada no Sistema Acadêmico, após apreciação e aprovação pela CEG/CONSEPE, conforme o prazo definido no Calendário Acadêmico.
+* O DAE manterá atualizado no sistema acadêmico, as matrizes curriculares, com todas as modificações eventualmente realizadas segundo os termos desta Resolução.
+
+**4. Extinção de um Curso ou Turno de Funcionamento de um Curso**
+
+* A extinção de um curso ou turno de funcionamento de um curso poderá ser solicitada nas seguintes hipóteses:
+	+ Quando não mais estiver de acordo com os objetivos, diretrizes e areceitos previstos no PDI e PPI da UFAM.
+	+ Quando não mais se verificarem as justificativas para existência do curso ou turno, enunciadas no seu PPC, e quando houver inviabilidade da oferta do curso do ponto de vista educacional, institucional e econômico.
+	+ Quando a extinção ocorrer simultaneamente com a criação ou expansão de outro curso com maior capacidade de atendimento a demandas da sociedade e maior potencial de articulação com a dinâmica de geração do conhecimento, com a utilização precaminante dos mesmos recursos humanos e físicos que davam suporte ao curso a ser extinto.
+* O processo de extinção do curso ou turno de funcionamento de um curso será gradual e semestral, instruído por meio do Plano de Extinção elaborado pelo VDE e Coordenação de Curso.
+
+**5. Comissão de Acompanhamento**
+
+* A unidade acadêmica deverá constituir uma comissão de acompanhamento do processo de extinção, composta pelo coordenador do curso e por representantes do NDE e do corpo discente do curso ou turno a ser extinto.
+
+**6. Homologação**
+
+* O processo contendo o Plano de Extinção e deverá ser encaminhado pelo coordenador do curso, com o visto do Diretor da Unidade Acadêmica, para análise do DAE, acompanhado da justificativa, ata do NDE e do Colegiado de Curso.
+* Estando em conformidade, o DAE emitirá uma notificação técnica e encaminhará o processo de extinção para apreciação e çelerção da SEG e posterior envio ao CONSUNI para homologação.

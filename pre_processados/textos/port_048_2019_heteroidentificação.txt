@@ -1,0 +1,57 @@
+Aqui está a extração e organização das informações legislativas do texto:
+
+**PORTARIA Nº 48, DE 16 DE JULHO DE 2019**
+
+**Seção I - Disposições Gerais**
+
+* Art. 1º: Aprovar procedimentos e critérios a serem aplicados nos processos administraivos que apuram denúncias de supostas fraudes no uso de cotas destinadas a pretos, pardos e indígenas.
+* Art. 2º: O Pró-Reitor de Ensino de Graduação solicitará informações do Departamento de Registro Acadêmico (DRA)/PROEG sobre a matrícula institucional do discente denunciado.
+* Art. 3º: O Pró-Reitor de Ensino de Graduação submeterá o processo administrativo ao procedimento de heteroidentificação, se o DRA/PROEG confirmar que se trata de discente matriculado em vaga reservada a pretos, pardos ou indígenas.
+
+**Seção II - Do Procedimento para Fins de Heteroidentificação**
+
+* Art. 4º: O Pró-Reitor de Ensino de Graduação convocará o discente denunciado para o procedimento de heteroidentificação.
+* Art. 5º: O procedimento de heteroidentificação será realizado pela Comissão Regular de Verificação de Autodeclaração Étnico-Racial.
+* Art. 6º: Considera-se procedimento de heteroidentificação a identificação por terceiros da condição autodeclarada.
+* Art. 7º: A convocação para o procedimento de heteroidentificação poderá ocorrer por telefone, e-mail ou correio.
+* Art. 8º: O discente que ciente da convocação faltar ao procedimento de heteroidentificação e não apresentar justificativa em até 1 (um) dia após a data marcada para o procedimento, terá a sua matrícula cancelada.
+
+**Seção III - Da Fase Recursal**
+
+* Art. 13: Caso a autodeclaração étnico-racial não seja homologada, o discente poderá interpor recurso, uma única vez, para Comissão Recursal de Verificação de Autodeclaração Étnico-Racial.
+* Art. 14: O recurso deve ser interposto no prazo de 5 (cinco) dias úteis a contar da data de publicação do parecer conclusivo.
+* Art. 15: A Comissão Recursal de Verificação de Autodeclaração Étnico-Racial considerará o conteúdo do recurso do discente, a filmagem do procedimento de heteroidentificação, o parecer da Comissão Regular e o procedimento de heteroidentificação realizado pela própria Comissão Recursal.
+* Art. 16: O discente que faltar ao procedimento de heteroidentificação não terá a sua autodeclaração homologada.
+
+**Seção IV - Disposições Finais**
+
+* Art. 20: Na hipótese do processo concluir pela não homologação do termo de autodeclaração, o discente em questão terá o seu registro acadêmico cancelado e todas as disciplinas até então cursadas serão anuladas.
+* Art. 21: ...
+**Informações Legislativas**
+
+**Lei/Decreto**
+
+* Decreto nº 8.539, de 8 de outubro de 2015
+
+**Artigos**
+
+* Art. 6º, § 1º do Decreto nº 8.539, de 8 de outubro de 2015
+
+**Normas**
+
+* Vagas reservadas para candidatos pretos, pardos e indígenas
+
+**Regras**
+
+* É vedado ao discente cujo termo de autodeclaração não for homologado matricular-se novamente em vagas reservadas para candidatos pretos, pardos e indígenas, independentemente do curso de graduação ou do processo seleção.
+* Se o termo de autodeclaração for homologado, o discente poderá aproveitar o termo homologado para ingresso em qualquer curso de graduação da UFAM, isentando o candidato de nova submissão à comissão, ao se inscrever na mesma modalidade de reserva de vagas, em qualquer outro processo seleção, no mesmo ano ou em anos subsequentes.
+
+**Documento**
+
+* Documento assinado eletronicamente por David Lopes Neto, Pró-Reitor, em 17/07/2019, às 16:56, com horário oficial de Manaus.
+
+**Referências**
+
+* htsps://sei.ufam.edu.br/sei/controlador_externo.php?acao=documento_conferir&id_orgao_acesso_externo=0
+	+ Código verificador: 0010003
+	+ Código CRC: 1EEDB67E

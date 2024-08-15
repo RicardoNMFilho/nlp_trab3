@@ -1,0 +1,60 @@
+Aqui está a extração e organização das informações legislativas do texto:
+
+**Título**: RESOLUÇÃO Nº 019/2012
+
+**Instituições**: Poder Executivo, Ministério da Educação, Universidade Federal do Amazonas, Conselho de Ensino, Pesquisa e Extensão (CONSEPE) e Câmara de Ensino de Graduação (CEG)
+
+**Objeto**: Regulamenta a operacionalização da matrícula em disciplina a cada semestre.
+
+**Artigos**:
+
+1. A cada período letivo, os discentes devem efetuar matrícula em disciplina(s) obrigatória(s) e/or optativa(s) para fins de integralização dos créditos e carga horária definidos no Projeto Pedagógico do Curso.
+2. A solicitação de matrícula far-se-á através do Portal do Aluno.
+3. O período de solicitação de matrícula é dividido em três fases: Primeira Solicitação (fixada no Calendário Acadêmico), Segunda Solicitação (fixada no Calendário Acadêmico) e Terceira Solicitação (fixada no Calendário Acadêmico).
+4. A primeira solicitação é obrigatória para todos os alunos que não estejam na condição descrita no §3º do Artigo 1º.
+5. A segunda solicitação é para alunos que desejem matrícula em disciplina que seja prioritária ou não para seu curso, desde que haja vaga.
+6. A terceira solicitação ocorre sempre nos dois primeiros dias do início de cada período letivo.
+7. A terceira solicitação é a última etapa de pedido de matrícula em disciplina(s)/turma(s) para o discente que ainda não obteve sucesso em suas solicitações anteriores.
+8. O cancelamento é a exclusão de matrícula já efetuada em uma disciplina/turma, viabilizando a permuta, mediante solicitação de matrícula em outra disciplina/turma.
+9. O procedimento definido no Artigo 5º não assegura a matrícula em outra disciplina/turma, ficando o aluno sujeito aos critérios de seleção descritos no Artigo 10.
+10. A seleção dos candidatos será feita eletronicamente de acordo com os seguintes critérios: aluno periodizado que solicita disciplina/turma do período, oferecida prioritariamente para a versão de currículo que se encontra vinculado; aluno periodizado que solicita turma diferente da oferecida para a versão de currículo que se encontra vinculado; aluno finalista do semestre, entre outros.
+11. O desempate se efetuará por meio do coeficiente de rendimento.
+
+**Estatutos**: Artigo 39, inciso I do Regimento Geral da Universidade Federal do Amazonas; Artigo 105 do Regimento Geral da Universidade Federal do Amazonas.
+
+**Normas internas**: Normas internas em vigor referentes à operacionalização da oferta e da matrícula em disciplina a cada semestre.
+
+**Datadas**: RESOLUÇÃO Nº 019/2012-CEG/CONSEPE, de 27 de abril de 2012.
+
+**Finalidade**: Estabelecer normas para a operacionalização da matrícula em disciplina a cada semestre na Universidade Federal do Amazonas.
+Aqui estão as informações legislativas organizadas e normalizadas:
+
+**Resolução CONSEPE 019/2012-CEG/CONSEPE**
+
+* **Artigo 11**: Matrícula em disciplinas/turmas deve ser realizada dentro dos limites mínimo e máximo de créditos fixados por período, para cada curso no Projeto Pedagógico do Curso. Alunos finalistas do período têm permitido ultrapassar o limite máximo de créditos, até um total de 4 créditos ou uma só disciplina independentemente do número de créditos.
+
+* **Artigo 12**: Não serão aceitos pedidos de correção de matrícula após as três etapas de solicitações de matrícula e processamentos, exceto em casos comprovados de erro por parte da instituição.
+
+* **Artigo 13**: Pedidos de correção de matrícula devem ser encaminhados à Câmara de Ensino de Graduação (CEG) em período definido no Calendário Acadêmico.
+
+* **Artigo 14**: Pedidos de correção de matrícula que atenderem aos seguintes requisitos serão analisados pela CEG:
+	+ Comprovação da participação do discente no processo regular de solicitação de matrícula.
+	+ Solicitação de correção de matrícula feita em formulário próprio, acompanhada dos documentos específicos.
+	+ Solicitação protocolizada na Divisão de Orientação Acadêmica da PROEG.
+
+* **Artigo 15**: As solicitações serão avaliadas pela CEG e, após análise, emitirá parecer conclusivo sobre cada solicitação.
+
+* **Artigo 16**: Em período estabelecido no Calendário Acadêmico, a PROEG emitirá diários de classe definitivos.
+
+* **Artigo 17**: São considerados erros institucionais:
+	+ Matrícula em disciplina/turma rejeitada por falta de pré-requisito, havendo o aluno cursado com aproveitamento o pré-requisito, e este não foi lançado no histórico escolar do aluno.
+	+ Matrícula em disciplina/turma rejeitada por exceder o número máximo de créditos por período, estando o aluno na condição descrita no parágrafo único do Artigo 11.
+	+ Matrícula em disciplina/turma rejeitada por conflito de horário, sendo este resultado de oferta errada no Sistema feita pela Coordenação de Curso.
+
+* **Artigo 18**: No período destinado à correção de matrícula, a PROEG/DOA aceitará pedido de matrícula em disciplina de estágio, monografia ou trabalho de conclusão de curso que tenha restrição quanto ao número de alunos por orientador, desde que essa restrição tenha sido informada à PROEG antes do período da PRIMEIRA SOLICITAÇÃO.
+
+* **Artigo 19**: Está proibido qualquer procedimento no Sistema Integrado de Ensino (SIE) no período destinado à correção de matrícula pela CEG, exceto os previstos na presente Resolução, principalmente os que se configurem troca de turma ou de disciplina, nova matrícula ou cancelamento de disciplina.
+
+* **Artigo 20**: Revogam-se as disposições em contrário, especialmente a Resolução n. 008/2011 – CEG/CONSEPE de 14 de março de 2011.
+
+**Provável erro no texto**: Não há apenas um erro, mas sim inconsistências em várias partes do texto, como a falta de pontuação e a ortografia irregular. Sugiro uma revisão mais detalhada para garantir a correção e a consistência do texto.
